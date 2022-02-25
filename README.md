@@ -5,3 +5,4 @@ The following is the list of files:
 
 - app
 - assets
+- docs
