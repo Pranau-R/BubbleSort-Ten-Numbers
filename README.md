@@ -1,2 +1,6 @@
 # BubbleSort-Ten-Numbers
-All files related to the task
+All files related to the task.
+
+The following is the list of files:
+
+- app
