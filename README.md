@@ -7,6 +7,7 @@ The following is the list of files:
 - assets
 - docs
 - src
+- issue
 
 The following is the flowchart for the task using Word Document:
 
