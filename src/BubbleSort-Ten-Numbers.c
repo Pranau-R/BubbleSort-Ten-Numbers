@@ -45,7 +45,7 @@ int main()
     // Loop command for sorting the inputs
     for (index = 0 ; index < num - 1; ++index)
         {
-        for (next = 0; next < num - index -1; ++next)
+        for (next = 0; next < num - index - 1; ++next)
             {
             if (array[next] > array[next + 1])             // comparing the value of arr[next] and arr[next+1]
                 {
